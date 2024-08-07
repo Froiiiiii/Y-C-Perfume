@@ -52,7 +52,7 @@ div ul li a {
 }
 
 .banner {
-    background-size: 40%;
+    background-size: cover;
     height: 100%;
     width: 100%;
     position: absolute;
