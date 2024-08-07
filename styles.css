@@ -21,11 +21,11 @@
     font-weight: 600;
     font-size: 45px;
     font-style: italic ;
-    background-color: rgb(117, 81, 105);
+    background-color: rgb(117, 96, 114);
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur (80px);
+    backdrop-filter: blur (50px);
     
 }
 
@@ -60,6 +60,7 @@ div ul li a {
     object-fit: cover;
     z-index: -1;
 }
+
 
 .banner .glass-wrapper {
     width: 30%;
